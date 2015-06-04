@@ -1,0 +1,52 @@
+/*
+  $Id: ,v 3.00 2015/06/04
+
+  oscHelpdesk
+  http://www.snowtech.com.au
+
+  Copyright (c) 2002 -2015 Snowtech Services
+
+*/
+
+Original add on url http://addons.oscommerce.com/info/356
+
+
+********  TO INSTALL **********
+
+NEW INSTALLATIONS ONLY.
+
+Upload all files to corresponding folders of your osCommerce site.
+You must also perform a few manual alterations to your osCommerce files:
+
+******** MAKE A BACK-UP OF THESE FILES FIRST **********
+
+
+MySQL ALTERATIONS
+Insert the new tables found in the affiliate.sql file into your osCommerce catalog database.
+Upload files they are all new to your installation (unless you already have oscHelpdesk installed)
+
+##################################################################################################################
+
+CATALOG ALTERATIONS
+
+##################################################################################################################
+
+
+
+##################################################################################################################
+
+ADMIN ALTERATIONS
+
+##################################################################################################################
+
+
+
+********  TO USE THIS MODULE **********
+Quick Set up Instructions.
+
+1) Log into your admin >> Modules >> Content Modules >> Install Module (oscHelpdesk Module) >> Install Module >> 
+2) Admin >> Configuration >> Helpdesk >> Set up as Desired.
+
+
+
+********  IT IS STRONGLY SUGGESTED TO MAKE A BACK-UP OF THESE FILES FIRST **********
